@@ -34,17 +34,14 @@ Ethics Papers
 ### [Ethical Implications of AI on Database Administrators](/pdf/EthicsPaperAI.pdf)
 
 -   **Class:** CSCI 301 - Survey of Scripting Languages   
--   **Grade:** N/A
 
 ### [Ethical Challenges in Generative AI Misuse](/pdf/APNEthicsPaper.pdf)
 
 -   **Class:** CSCI 332 - Applied Networking 
--   **Grade:** N/A 
 
 ### [A Reflection on Jeremiah 17:9 in Network Penetration Testing](/pdf/EthicsEssay.pdf)
 
 -   **Class:** CSCI 452 - Network Penetration Testing 
--   **Grade:** N/A
 
 ---
 
@@ -55,20 +52,18 @@ Presentations
 
 - **Class:** CSCI 352 - Cyber Defense
 - **Group Members:** Jalyn Green & Ruth Knotts
-- **My Contributions:** Collaborated on the step-by-step handout & answer key for an interactive cryptography google form activity. 
+- **My Contributions:** Collaborated on the step-by-step handout & answer key for an interactive cryptography Google Form activity. 
 - **Additional Credit:** Ruth Knotts created the video explanation.
 
 **Project Materials:**
 - [Step-by-Step Handout](/pdf/StepByStepHandout.pdf)
 - [Answer Key](/pdf/AnswerKey.pdf)
 
-- **Grade:** N/A
 
 
 ### [Cyberbullying](/pdf/Cyberbullying.pdf)
 
 - **Class:** CSCI 405 - Principles of Cybersecurity 
-- **Grade:** N/A
 
 ---
 
