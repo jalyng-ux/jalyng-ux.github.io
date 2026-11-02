@@ -11,8 +11,8 @@ Programming Projects
 - **Class:** CSCI 301 - Survey of Scripting Languages
 - **Grade:** N/A
 - **Language:** Python
-- **Project Description:** To be completed
-- **Source Code:** To be added
+- **Project Description:** 
+- **Source Code:** 
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -21,8 +21,8 @@ Programming Projects
 - **Class:** CSCI 325
 - **Grade:** N/A
 - **Language:** Java
-- **Project Description:** To be completed
-- **Source Code:** To be added
+- **Project Description:** 
+- **Source Code:** 
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -30,9 +30,9 @@ Programming Projects
 ### [Project 3 - Air Drop | CSCI 332](project1)
 - **Class:** CSCI 332 - Applied Networking
 - **Grade:** N/A
-- **Language:** To be confirmed
-- **Project Description:** To be completed
-- **Source Code:** To be added
+- **Language:** 
+- **Project Description:** 
+- **Source Code:** 
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -41,8 +41,8 @@ Programming Projects
 - **Class:** CSCI 334
 - **Grade:** N/A
 - **Languages:** JavaScript, HTML, CSS, C#
-- **Project Description:** To be completed
-- **Source Code:** To be added
+- **Project Description:** 
+- **Source Code:** 
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -54,17 +54,17 @@ Ethics Papers
 ### [Ethical Implications of AI on Database Administrators](/pdf/EthicsPaperAI.pdf)
 
 -   **Class:** CSCI 301 - Survey of Scripting Languages
--   - **Grade:** N/A 
+-   **Grade:** N/A 
 
 ### [Ethical Challenges in Generative AI Misuse](/pdf/APNEthicsPaper.pdf)
 
 -   **Class:** CSCI 332 - Applied Networking
--   - **Grade:** N/A
+-   **Grade:** N/A
 
 ### [A Reflection on Jeremiah 17:9 in Network Penetration Testing](/pdf/EthicsEssay.pdf)
 
 -   **Class:** CSCI 452 - Network Penetration Testing
--   - **Grade:** N/A 
+-   **Grade:** N/A 
 
 ---
 
@@ -82,14 +82,14 @@ Presentations
 - [Step-by-Step Handout](/pdf/StepByStepHandout.pdf)
 - [Answer Key](/pdf/AnswerKey.pdf)
 
-- - **Grade:** N/A
+- **Grade:** N/A
 
 
 
 ### [Cyberbullying](/pdf/Cyberbullying.pdf)
 
 - **Class:** CSCI 405 - Principles of Cybersecurity
-- - **Grade:** N/A
+- **Grade:** N/A
 
 ---
 
