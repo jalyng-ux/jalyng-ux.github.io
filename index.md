@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Cryptography – Group Project | CSCI 352]
+### [Cryptography – Group Project | CSCI 352](/pdf/HandsOnProjectPowerpoint.pdf)
 
 - **Class:** CSCI 352 - Cyber Defense
 - **Group Members:** Jalyn Green & Ruth Knotts
@@ -59,16 +59,15 @@ Presentations
 - **Additional Credit:** Ruth Knotts created the video explanation.
 
 **Project Materials:**
-- [Cryptography Presentation](/pdf/HandsOnProjectPowerpoint.pdf)
 - [Step-by-Step Handout](/pdf/StepByStepHandout.pdf)
 - [Answer Key](/pdf/AnswerKey.pdf)
 
 - **Grade:** N/A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Cyberbullying](/pdf/Cyberbullying.pdf)
 
-- **Class:** 
+- **Class:** CSCI 405 - Principles of Cybersecurity 
 - **Grade:** N/A
 
 ---
