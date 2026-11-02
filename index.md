@@ -31,17 +31,17 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethical Implications of AI on Database Administrators](/pdf/sample_presentation.pdf)
+### [Ethical Implications of AI on Database Administrators](/pdf/EthicsPaperAI.pdf)
 
 -   **Class:** CSCI 301 - Survey of Scripting Languages   
 -   **Grade:** ?
 
-### [Ethical Challenges in Generative AI Misuse](/pdf/sample_presentation.pdf)
+### [Ethical Challenges in Generative AI Misuse](/pdf/APNEthicsPaper.pdf)
 
 -   **Class:** CSCI 332 - Applied Networking 
 -   **Grade:** ? 
 
-### [A Reflection on Jeremiah 17:9 in Network Penetration Testing](/pdf/sample_presentation.pdf)
+### [A Reflection on Jeremiah 17:9 in Network Penetration Testing](/pdf/EthicsEssay.pdf)
 
 -   **Class:** CSCI 452 - Network Penetration Testing 
 -   **Grade:** ?
