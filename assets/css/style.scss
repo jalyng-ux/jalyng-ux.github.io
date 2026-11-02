@@ -3,9 +3,12 @@
 
 @import "jekyll-theme-minimal";
 
-img {
-  max-width: 100%;
-  border-radius: 10px;  
+header img {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  object-position: center 30%;
+  border-radius: 50%;  
 }
 
 ul li ul {
