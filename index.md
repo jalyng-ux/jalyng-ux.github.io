@@ -7,22 +7,42 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [Project 1 - Python Final Project | CSCI 301](project1)
+- **Class:** CSCI 301 - Survey of Scripting Languages
+- **Grade:** N/A
+- **Language:** Python
+- **Project Description:** To be completed
+- **Source Code:** To be added
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Project 2 - Snake Game| CSCI 325](project1)
+- **Class:** CSCI 325
+- **Grade:** N/A
+- **Language:** Java
+- **Project Description:** To be completed
+- **Source Code:** To be added
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Project 3 - Air Drop | CSCI 332](project1)
+- **Class:** CSCI 332 - Applied Networking
+- **Grade:** N/A
+- **Language:** To be confirmed
+- **Project Description:** To be completed
+- **Source Code:** To be added
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 - Charity Run Website | CSCI 332](project1)
+- **Class:** CSCI 334
+- **Grade:** N/A
+- **Languages:** JavaScript, HTML, CSS, C#
+- **Project Description:** To be completed
+- **Source Code:** To be added
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
