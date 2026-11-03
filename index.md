@@ -62,7 +62,7 @@ Presentations
 - [Step-by-Step Handout](/pdf/StepByStepHandout.pdf)
 - [Answer Key](/pdf/AnswerKey.pdf)
 
-- **Grade:** N/A
+- **Grade:** 100/100
 
 
 
