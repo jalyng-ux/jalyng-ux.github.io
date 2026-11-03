@@ -22,11 +22,11 @@ In order to run this project, Python 3 must be installed on your computer. The R
 2. Open a terminal or command prompt in the folder containing the file.
 3. Install the required libraries using this command:
 
-   pip install requests beautifulsoup4
+   "pip install requests beautifulsoup4"
 
 4. Run the program using this command:
 
-   python3 Final.py
+   "python3 Final.py"
 
 5. The program will search the Python.org jobs website and display matching engineering job listings. It will also include the company name, location, and job posting link.
 
