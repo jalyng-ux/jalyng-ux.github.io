@@ -4,7 +4,7 @@ Project 1 - Python Final Project
 ===============
 
 -   **Class:** CSCI 301 - Survey of Scripting Languages 
--   **Grade:** N/A
+-   **Grade:** 100/100
 -   **Language(s):** Python
 -   **Source Code Repository:** [CSCI 301 Final Project](https://github.com/jalyng-ux/CSCI-301-code-repository/tree/master/FinalProject)
 
