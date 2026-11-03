@@ -45,9 +45,6 @@ Fig 1. Running the Python program using Terminal.
 
 Fig 2. Engineering job listings displayed in Terminal.
 
-## 3. Additional Considerations
-
-
 ## Additional Considerations
 
 One thing to keep in mind with this project is that it needs an internet connection to work. Since the program gets its information directly from Python.org. Any changes to the website could affect how it runs. Also, the results may be different depending on what engineering jobs are posted at the time.
