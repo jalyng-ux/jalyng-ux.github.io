@@ -4,7 +4,7 @@ Project 3 - Statistics Calculator
 ===============
 
 -   **Class:** CSCI 325 - Object-Oriented Programming
--   **Grade:** N/A
+-   **Grade:** N/A (see additional considerations)
 -   **Language(s):** Java
 -   **Source Code Repository:** [Statistics Calculator Code](StatisticsCalulatorGUI2.java)
 
