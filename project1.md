@@ -1,34 +1,41 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Project 1 - Python Final Project
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
-
+-   **Class:** CSCI 301 - Survey of Scripting Languages 
+-   **Grade:** N/A
+-   **Language(s):** Python
+-   **Source Code Repository:** [CSCI 301 Final Project](https://github.com/jalyng-ux/CSCI-301-code-repository/tree/master/FinalProject)
+  
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+For my final project in CSCI 301, I created a Python web scraping program that searches for engineering job listings on the Python.org jobs website. This was designed so that the program uses the Requests library to retrieve information from the website and BeautifulSoup to search through the HTML. It identifies job listings containing the word "engineer" and displays the company name, job location, and a link to the job posting. I really enjoyed learning more about Python throughout this course and seeing how it can be used to collect useful information from websites. Overall, this project helped me improve my Python scripting skills and gain a better understanding of web scraping and extracting information from websites.
 
-## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+## How to Properly Run the Program 
 
-```bash
-cd ./project
-python setup.py
-```
+In order to run this project, Python 3 must be installed on your computer. The Requests and BeautifulSoup libraries are also required.
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+- **Steps:**
+1. Download the `Final.py` file from the GitHub repository.
+2. Open a terminal or command prompt in the folder containing the file.
+3. Install the required libraries using the following command:
+
+   pip install requests beautifulsoup4
+
+4. Run the program using:
+
+   python3 Final.py
+
+5. The program will search the Python.org jobs website and display matching engineering job listings. It will also include the company name, location, and job posting link.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+This project uses a command-line interface rather than a graphical user interface. When running he Python script, the program automatically searches the Python.org jobs website for engineering job listings. The results are displayed directly in the terminal, showing the company name, job location, and a link to the job posting.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+**IMPORTANT NOTE:**
+- You do not need to enter any information because the program performs the search automatically.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -41,8 +48,10 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Additional Considerations
+
+One thing to keep in mind with this project is that it needs an internet connection to work. Since the program gets its information directly from Python.org. Any changes to the website could affect how it runs. Also, the results may be different depending on what engineering jobs are posted at the time.
+
 
 [Back to Portfolio](./)
