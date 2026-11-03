@@ -18,14 +18,6 @@ Project 3 - Air Drop
 ## UI Design
 -
 
-![Running the Python program](images/project1_run.png)
-
-Fig 1. Running the Python program using Terminal.
-
-![Engineering job listings](images/project1_output.png)
-
-Fig 2. Engineering job listings displayed in Terminal.
-
 ## Additional Considerations
 
 - 
