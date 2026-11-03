@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Statistics Calculator | CSCI 325](project3)
 
-![Statistics Calculator](images/project3_home.png)
+![Statistics Calculator](images/project3_all1.png)
 
 ---
 ### [Charity Run Website | CSCI 334](project4)
