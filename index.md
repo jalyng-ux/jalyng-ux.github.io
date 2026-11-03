@@ -7,12 +7,12 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 - Python Final Project | CSCI 301](project1)
+### [Python Final Project | CSCI 301](project1)
 
 ![Python Final Project](images/project1_output.png)
 
 ---
-### [Project 2 - Snake Game| CSCI 325](project2)
+### [Snake Game| CSCI 325](project2)
 
 ![Snake Game Leaderboard](images/project2_leaderboard.png)
 
