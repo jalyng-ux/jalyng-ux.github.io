@@ -42,6 +42,7 @@ The frontend uses a backend API address configured in src/api.js. This address m
 ## UI Design
 The Charity Run Website uses a graphical user interface developed with React and JavaScript. The website includes several pages that allow users to register, log in, view team information, and access different features based on their role. My main focus was the Admin View, which allows administrators to view runner information and manage administrative privileges. I worked on connecting this interface to the backend and implementing the functionality of the checkboxes used within the Admin View. The website was designed to organize information in a way that allows users and administrators to navigate through the different features.
 
+
 ![Charity Run Home Page](images/project4_home.png)
 
 Fig 1. Charity Run website home page.
