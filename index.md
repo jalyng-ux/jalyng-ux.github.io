@@ -12,9 +12,9 @@ Programming Projects
 - **Grade:** N/A
 - **Language:** Python
 - **Project Description:** 
-- **Source Code:** 
+- **Source Code:** [Python Final Project](https://github.com/jalyng-ux/CSCI-301-code-repository/tree/master/FinalProject)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Python Final Project Screenshot](images/project1_output.png)
 
 ---
 ### [Project 2 - Snake Game| CSCI 325](project1)
