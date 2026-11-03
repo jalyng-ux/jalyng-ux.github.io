@@ -7,7 +7,9 @@ Project 3 - Statistics Calculator
 -   **Grade:** N/A
 -   **Language(s):** Java
 -   **Source Code Repository:** [Statistics Calculator Code](StatisticsCalulatorGUI2.java)
--   
+
+(Please [email me](mailto:JTGreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
+
 ## Project description
 - For this project, I created a Statistics Calculator using Java and Apache NetBeans. I designed a graphical user interface (GUI) that allows users to enter numbers and calculate the mean, median, and mode. I created buttons for each calculation and an additional button that displays all three results together. I used arrays, loops, and if/else statements to perform the calculations.
 
