@@ -6,7 +6,7 @@ Project 1 - Python Final Project
 -   **Class:** CSCI 301 - Survey of Scripting Languages 
 -   **Grade:** 100/100
 -   **Language(s):** Python
--   **Source Code Repository:** [CSCI 301 Final Project](https://github.com/jalyng-ux/CSCI-301-code-repository/tree/master/FinalProject)
+-   **Source Code Repository:** [Python Final Project Code](https://github.com/jalyng-ux/Python-Job-Scraper)
 
 (Please [email me](mailto:JTGreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
   
