@@ -9,7 +9,9 @@ Project 4 - Charity Run Website
 - **Project Type:** Group Project
 - **My Contribution:** Frontend JavaScript development, Admin View functionality, & testing
 - **Source Code Repository:** [Charity Run Website](https://github.com/Krabbenhoft/team-website-public)
-  
+
+(Please [email me](mailto:JTGreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
+
 ## Project Description
 For this group project in CSCI 334, my team and I developed a Charity Run Website that allows users to register, log in, join teams, and manage information related to a charity run webpage. The website was developed using React and JavaScript for the frontend and C# with .NET for the backend. My main responsibility was working on the frontend Admin View. I worked with JavaScript to connect the admin interface to existing backend functions, allowing administrators to view runner information and manage admin privileges. I also worked on the functionality of the checkboxes within the Admin View and helped test the frontend and the backend. This project allowed me to gain more experience with JavaScript and React while developing a better understanding of how the frontend and backend communicate.
 
