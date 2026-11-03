@@ -24,7 +24,7 @@ In order to run this project, Node.js, npm, and the .NET SDK are needed.
 
    "dotnet run"
 
-5. Open another terminal and navigate to the `running-website` folder.
+5. Open another terminal and navigate to the running-website folder.
 6. Install the frontend dependencies using:
 
    "npm install"
