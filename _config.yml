@@ -3,13 +3,15 @@
 title: Jalyn T. Green 
 logo: "/images/IMG_0121.jpeg" 
 description: > 
-  CSCI 496: Senior Portfolio<br />
-  Bachleor of Science in Cybersecurity
-  Charleston Southern University (Class of 2027)
-  <br /><br />
-  <a href="/pdf/Resume.pdf">View My Resume</a>
-  <br /><br />
-  <a href="https://app.joinhandshake.com/profiles/ck2d24">View My Handshake Profile</a>
+   <div style="text-align: center;">
+    <strong>Bachelor of Science in Cybersecurity</strong><br>
+    Charleston Southern University<br>
+    Expected Graduation: May 2027
+    <hr>
+    <p><a href="/pdf/Resume.pdf">View My Resume</a></p>
+    <p><a href="https://app.joinhandshake.com/profiles/ck2d24">View My Handshake Profile</a></p>
+    <p><a href="https://github.com/jalyng-ux">View My GitHub Profile</a></p>
+  </div>
 repository: "jalyng-ux/jalyng-ux.github.io"
 github_username:  jalyng-ux 
 
