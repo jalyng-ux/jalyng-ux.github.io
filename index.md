@@ -17,12 +17,12 @@ Programming Projects
 ![Snake Game Leaderboard](images/project2_leaderboard.png)
 
 ---
-### [Project 3 - Air Drop | CSCI 332](project1)
+### [Air Drop| CSCI 332](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 - Charity Run Website | CSCI 332](project1)
+### [Charity Run Website| CSCI 334](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
