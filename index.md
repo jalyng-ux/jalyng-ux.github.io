@@ -12,7 +12,7 @@ Programming Projects
 ![Python Final Project](images/project1_output.png)
 
 ---
-### [Snake Game| CSCI 325](project2)
+### [Snake Game Leaderboard| CSCI 325](project2)
 
 ![Snake Game Leaderboard](images/project2_leaderboard.png)
 
