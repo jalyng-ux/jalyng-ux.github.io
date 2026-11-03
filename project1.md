@@ -7,6 +7,8 @@ Project 1 - Python Final Project
 -   **Grade:** N/A
 -   **Language(s):** Python
 -   **Source Code Repository:** [CSCI 301 Final Project](https://github.com/jalyng-ux/CSCI-301-code-repository/tree/master/FinalProject)
+
+(Please [email me](mailto:JTGreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
   
 ## Project description
 
