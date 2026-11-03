@@ -8,41 +8,21 @@ Programming Projects
 
 ---
 ### [Project 1 - Python Final Project | CSCI 301](project1)
-- **Class:** CSCI 301 - Survey of Scripting Languages
-- **Grade:** N/A
-- **Language:** Python
-- **Project Description:** 
-- **Source Code:** [Python Final Project](https://github.com/jalyng-ux/CSCI-301-code-repository/tree/master/FinalProject)
 
 ![Python Final Project Screenshot](images/project1_output.png)
 
 ---
 ### [Project 2 - Snake Game| CSCI 325](project1)
-- **Class:** CSCI 325
-- **Grade:** N/A
-- **Language:** Java
-- **Project Description:** 
-- **Source Code:** 
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 ### [Project 3 - Air Drop | CSCI 332](project1)
-- **Class:** CSCI 332 - Applied Networking
-- **Grade:** N/A
-- **Language:** 
-- **Project Description:** 
-- **Source Code:** 
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
 ### [Project 4 - Charity Run Website | CSCI 332](project1)
-- **Class:** CSCI 334
-- **Grade:** N/A
-- **Languages:** JavaScript, HTML, CSS, C#
-- **Project Description:** 
-- **Source Code:** 
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
