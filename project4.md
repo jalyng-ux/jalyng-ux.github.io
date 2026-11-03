@@ -42,6 +42,22 @@ The frontend uses a backend API address configured in src/api.js. This address m
 ## UI Design
 The Charity Run Website uses a graphical user interface developed with React and JavaScript. The website includes several pages that allow users to register, log in, view team information, and access different features based on their role. My main focus was the Admin View, which allows administrators to view runner information and manage administrative privileges. I worked on connecting this interface to the backend and implementing the functionality of the checkboxes used within the Admin View. The website was designed to organize information in a way that allows users and administrators to navigate through the different features.
 
+![Charity Run Home Page](images/project4_home.png)
+
+Fig 1. Charity Run website home page.
+
+![Runner Dashboard](images/project4_dashboard.png)
+
+Fig 2. Dashboard showing the race schedule and route.
+
+![Admin Dashboard](images/project4_admin_dashboard.png)
+
+Fig 3. The admin account dashboard, showing the administrator role and access to the website's features.
+
+![Admin Team Information](images/project4_admin.png)
+
+Fig 4. My main contribution to this project was working on the frontend Admin View. I used JavaScript to connect the admin interface to the backend so administrators could view registered runners, their team information, and admin roles.
+
 ## Additional Considerations
 Since this was a group project, each team member was responsible for different parts of the website. My contribution focused primarily on the frontend Admin View and its functionality. One challenge involved making sure the frontend communicated correctly with the backend and that the interactive features worked as expected. Testing these features helped me gain a better understanding of how different parts of a web application work together. Overall, this project strengthened my understanding of JavaScript, React, and the importance of communication while working in a team. 
 
