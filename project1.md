@@ -18,7 +18,7 @@ For my final project in CSCI 301, I created a Python web scraping program that s
 In order to run this project, Python 3 must be installed on your computer. The Requests and BeautifulSoup libraries are also required.
 
 - **Steps:**
-1. Download the `Final.py` file from the GitHub repository.
+1. Download the Final.py file from the GitHub repository.
 2. Open a terminal or command prompt in the folder containing the file.
 3. Install the required libraries using the following command:
 
