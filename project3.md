@@ -6,7 +6,7 @@ Project 3 - Statistics Calculator
 -   **Class:** CSCI 325 - Object-Oriented Programming
 -   **Grade:** N/A (see additional considerations)
 -   **Language(s):** Java
--   **Source Code Repository:** [Statistics Calculator Code](StatisticsCalulatorGUI2.java)
+-   **Source Code Repository:** [Statistics Calculator Code](https://github.com/jalyng-ux/Statistics-Calculator)
 
 (Please [email me](mailto:JTGreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
