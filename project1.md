@@ -37,14 +37,13 @@ This project uses a command-line interface rather than a graphical user interfac
 **IMPORTANT NOTE:**
 - You do not need to enter any information because the program performs the search automatically.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![Running the Python program](images/project1_run.png)
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+Fig 1. Running the Python program using Terminal.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![Engineering job listings](images/project1_output.png)
+
+Fig 2. Engineering job listings displayed in Terminal.
 
 ## 3. Additional Considerations
 
