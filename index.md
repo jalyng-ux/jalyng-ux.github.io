@@ -54,17 +54,12 @@ Presentations
 ### [Cryptography – Group Project | CSCI 352](/pdf/HandsOnProjectPowerpoint.pdf)
 
 - **Class:** CSCI 352 - Cyber Defense
-- **Group Members:** Jalyn Green & Ruth Knotts
+- **Grade:** 100/100
 - **My Contributions:** Collaborated on the step-by-step handout & answer key for an interactive cryptography Google Form activity. 
 - **Additional Credit:** Ruth Knotts created the video explanation.
-
-**Project Materials:**
-- [Step-by-Step Handout](/pdf/StepByStepHandout.pdf)
-- [Answer Key](/pdf/AnswerKey.pdf)
-
-- **Grade:** 100/100
-
-
+- **Project Materials:**
+   - [Step-by-Step Handout](/pdf/StepByStepHandout.pdf)
+   - [Answer Key](/pdf/AnswerKey.pdf)
 
 ### [Cyberbullying](/pdf/Cyberbullying.pdf)
 
