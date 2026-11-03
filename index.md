@@ -12,17 +12,17 @@ Programming Projects
 ![Python Final Project](images/project1_output.png)
 
 ---
-### [Snake Game Leaderboard| CSCI 325](project2)
+### [Snake Game Leaderboard | CSCI 325](project2)
 
 ![Snake Game Leaderboard](images/project2_leaderboard.png)
 
 ---
-### [Air Drop| CSCI 332](project3)
+### [Air Drop | CSCI 332](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Charity Run Website| CSCI 334](project4)
+### [Charity Run Website | CSCI 334](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
