@@ -1,20 +1,20 @@
 # Site settings
 # These are used to personalize your new site.
+
 title: Jalyn T. Green
 logo: "/images/IMG_0121.jpeg"
 description: >
-  <div style="text-align: center;">
-    <strong>Bachelor of Science in Cybersecurity</strong><br>
-    Charleston Southern University<br>
-    Expected Graduation: May 2027
-    <hr>
-    <p><a href="/pdf/Resume.pdf">View My Resume</a></p>
-    <p><a href="https://app.joinhandshake.com/profiles/ck2d24">View My Handshake Profile</a></p>
-    <p><a href="https://github.com/jalyng-ux">View My GitHub Profile</a></p>
-  </div>
-  
+  CSCI 496: Senior Portfolio<br />
+  Bachelor of Science in Cybersecurity
+  Charleston Southern University (Class of 2027)
+  <br /><br />
+  <a href="/pdf/Resume.pdf">View My Resume</a>
+  <br /><br />
+  <a href="https://app.joinhandshake.com/profiles/ck2d24">View My Handshake Profile</a>
 repository: "jalyng-ux/jalyng-ux.github.io"
+github_username: jalyng-ux
 
 # Build setting
 theme: jekyll-theme-minimal
+
 
