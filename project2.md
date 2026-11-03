@@ -8,6 +8,8 @@ Project 2 - Snake Game Leaderboard
 -   **Language(s):** Java
 -   **My Contribution:** Leaderboard Functionality
 -   **Source Code Repository:** [CSCI 325 Snake Game](https://github.com/csu-cs/csci325-Fall25-Snake)
+
+(Please [email me](mailto:JTGreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
   
 ## Project description
 
