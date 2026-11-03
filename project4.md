@@ -4,9 +4,8 @@ Project 4 - Charity Run Website
 ===============
 
 - **Class:** CSCI 334 - User-Interface Programming 
-- **Grade:** N/A
+- **Grade:** 90/100
 - **Language(s):** JavaScript, React, HTML, CSS, C#
-- **Project Type:** Group Project
 - **My Contribution:** Frontend JavaScript development, Admin View functionality, & testing
 - **Source Code Repository:** [Charity Run Website](https://github.com/Krabbenhoft/team-website-public)
 
@@ -18,22 +17,22 @@ For this group project in CSCI 334, my team and I developed a Charity Run Websit
 ## How to Properly Run the Program 
 In order to run this project, Node.js, npm, and the .NET SDK are needed.
 
-**Steps:**
+Steps:
 1. Download the Charity Run Website project from the GitHub repository.
 2. Extract the downloaded ZIP file.
 3. Open a terminal and navigate to the charity-run-backend-net10 folder.
 4. Start the backend using:
 
-   "dotnet run"
+   dotnet run
 
 5. Open another terminal and navigate to the running-website folder.
 6. Install the frontend dependencies using:
 
-   "npm install"
+   npm install
 
 7. Start the frontend using:
 
-   "npm run dev"
+   npm run dev
 
 8. Open the local website address displayed in the frontend terminal.
 9. Use the website to explore the registration, login, dashboard, and admin features.
@@ -60,10 +59,6 @@ Fig 3. The admin account dashboard, showing the administrator role and access to
 ![Admin Team Information](images/project4_admin.png)
 
 Fig 4. My main contribution to this project was working on the frontend Admin View. I used JavaScript to connect the admin interface to the backend so administrators could view registered runners, their team information, and admin roles.
-
-## Additional Considerations
-Since this was a group project, each team member was responsible for different parts of the website. My contribution focused primarily on the frontend Admin View and its functionality. One challenge involved making sure the frontend communicated correctly with the backend and that the interactive features worked as expected. Testing these features helped me gain a better understanding of how different parts of a web application work together. Overall, this project strengthened my understanding of JavaScript, React, and the importance of communication while working in a team. 
-
 
 [Back to Portfolio](./)
 
