@@ -46,6 +46,6 @@ Fig 4. Calculator displaying the mode of the entered numbers.
 Fig 5. Calculator displaying the mean, median, and mode together.
 
 ## Additional Considerations
-The calculator requires users to enter numbers separated by commas. It uses basic Java programming concepts and currently does not handle incorrect inputs, such as letters or anything. The mode calculation displays one mode if multiple values are tied.
+This project was originally intended for my CSCI 325 coursework but was not submitted for grading. I later completed it independently to further develop my Java programming skills and gain additional experience with GUI development.
 
 [Back to Portfolio](./)
