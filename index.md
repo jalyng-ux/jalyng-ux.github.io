@@ -34,7 +34,7 @@ Ethics Papers
 ### [Ethical Implications of AI on Database Administrators](/pdf/EthicsPaperAI.pdf)
 
 -   **Class:** CSCI 301 - Survey of Scripting Languages
--   **Grade:** N/A 
+-   **Grade:** 90/100 
 
 ### [Ethical Challenges in Generative AI Misuse](/pdf/APNEthicsPaper.pdf)
 
