@@ -20,11 +20,11 @@ In order to run this project, Python 3 must be installed on your computer. The R
 - **Steps:**
 1. Download the Final.py file from the GitHub repository.
 2. Open a terminal or command prompt in the folder containing the file.
-3. Install the required libraries using the following command:
+3. Install the required libraries using this command:
 
    pip install requests beautifulsoup4
 
-4. Run the program using:
+4. Run the program using this command:
 
    python3 Final.py
 
