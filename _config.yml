@@ -1,6 +1,6 @@
 # Site settings
 # These are used to personalize your new site.
-title: Jalyn T. Green 
+title: Jalyn T. Green
 logo: "/images/IMG_0121.jpeg"
 description: >
   <div style="text-align: center;">
@@ -12,8 +12,8 @@ description: >
     <p><a href="https://app.joinhandshake.com/profiles/ck2d24">View My Handshake Profile</a></p>
     <p><a href="https://github.com/jalyng-ux">View My GitHub Profile</a></p>
   </div>
+  
 repository: "jalyng-ux/jalyng-ux.github.io"
-github_username:  jalyng-ux 
 
 # Build setting
 theme: jekyll-theme-minimal
