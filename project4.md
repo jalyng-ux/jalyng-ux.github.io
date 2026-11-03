@@ -7,7 +7,7 @@ Project 4 - Charity Run Website
 - **Grade:** 90/100
 - **Language(s):** JavaScript, React, HTML, CSS, C#
 - **My Contribution:** Frontend JavaScript development, Admin View functionality, & testing
-- **Source Code Repository:** [Charity Run Website](https://github.com/Krabbenhoft/team-website-public)
+- **Source Code Repository:** [Charity Run Website](https://github.com/jalyng-ux/Charity-Run-Website)
 
 (Please [email me](mailto:JTGreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
