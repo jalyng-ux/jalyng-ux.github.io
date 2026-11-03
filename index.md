@@ -9,12 +9,12 @@ Programming Projects
 ---
 ### [Project 1 - Python Final Project | CSCI 301](project1)
 
-![Python Final Project Screenshot](images/project1_output.png)
+![Python Final Project](images/project1_output.png)
 
 ---
-### [Project 2 - Snake Game| CSCI 325](project1)
+### [Project 2 - Snake Game| CSCI 325](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Snake Game Leaderboard](images/project2_leaderboard.png)
 
 ---
 ### [Project 3 - Air Drop | CSCI 332](project1)
