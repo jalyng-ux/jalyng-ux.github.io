@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Charity Run Website | CSCI 334](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+[![Charity Run Website](images/project4_admin.png)](project4)
 
 ---
 
