@@ -1,4 +1,4 @@
-Portfolio
+CSCI 496: Senior Portfolio
 =========
 
 Programming Projects
