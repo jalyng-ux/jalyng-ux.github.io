@@ -17,24 +17,24 @@ For my final project in CSCI 301, I created a Python web scraping program that s
 
 ## How to Properly Run the Program 
 
-In order to run this project, Python 3 must be installed on your computer. The Requests and BeautifulSoup libraries are also required.
+In order to run this project, Python 3 must be installed on your computer. The Requests and BeautifulSoup libraries are also required to be installed.
 
-- **Steps:**
+Steps: 
 1. Download the Final.py file from the GitHub repository.
 2. Open a terminal or command prompt in the folder containing the file.
 3. Install the required libraries using this command:
 
-   "pip install requests beautifulsoup4"
+   pip install requests beautifulsoup4
 
 4. Run the program using this command:
 
-   "python3 Final.py"
+   python3 Final.py
 
 5. The program will search the Python.org jobs website and display matching engineering job listings. It will also include the company name, location, and job posting link.
 
 ## UI Design
 
-This project uses a command-line interface rather than a graphical user interface. When running he Python script, the program automatically searches the Python.org jobs website for engineering job listings. The results are displayed directly in the terminal, showing the company name, job location, and a link to the job posting.
+This project uses a command-line interface rather than a graphical user interface. When running the python script, the program automatically searches the Python.org jobs website for engineering job listings. The results are displayed directly in the terminal, showing the company name, job location, and a link to the job posting.
 
 **IMPORTANT NOTE:**
 - You do not need to enter any information because the program performs the search automatically.
