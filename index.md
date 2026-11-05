@@ -64,7 +64,7 @@ Presentations
 ### [Cyberbullying](/pdf/Cyberbullying.pdf)
 
 - **Class:** CSCI 405 - Principles of Cybersecurity
-- **Grade:** N/A
+- **Grade:** 100/100
 
 ---
 
